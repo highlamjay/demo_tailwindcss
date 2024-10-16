@@ -8,7 +8,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open demo.html",
-            "file": "c:\\Users\\caodu\\my-tailwind-project\\demo.html"
+            "file": ".\\demo.html"
         }
     ]
 }
